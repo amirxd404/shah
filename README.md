@@ -1,3 +1,8 @@
+# Shah
+
+File & Random Clonnig Tools Repository
+
+```
 
 pkg update
 pkg upgrade
