@@ -1,2 +1,2 @@
-import wali
-wali.iAmMain().iAmMenu()
+import aamir
+#wali.iAmMain().iAmMenu()
