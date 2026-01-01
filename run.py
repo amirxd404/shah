@@ -1,2 +1,2 @@
-import aamir
+import aamirk
 #wali.iAmMain().iAmMenu()
