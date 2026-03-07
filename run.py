@@ -1,2 +1,2 @@
-import aamirk
+import SHA
 #wali.iAmMain().iAmMenu()
