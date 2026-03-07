@@ -1,2 +1,2 @@
-import SHA
+import shaa
 #wali.iAmMain().iAmMenu()
