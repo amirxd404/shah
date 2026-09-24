@@ -1,2 +1,2 @@
-import shaa
+import samrat
 #wali.iAmMain().iAmMenu()
